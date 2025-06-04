@@ -152,7 +152,7 @@ function App() {
             {prediction && (
               <Card>
                 <CardContent>
-                  <Typography variant="h6" gutterBottom>
+                  <Typography variant="h6\" gutterBottom>
                     Analysis Results
                   </Typography>
 
